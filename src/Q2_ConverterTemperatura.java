@@ -3,6 +3,7 @@ public class Q2_ConverterTemperatura {
     public static void main(String[] args) {
         converterTemperatura(100, "celsius", "kelvin");
     }
+    
     public static void converterTemperatura(double temperaturaAtual, String medidaAtual, String medidaFinal){
 
         double output = 0;
