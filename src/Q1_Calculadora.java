@@ -36,7 +36,7 @@ public class Q1_Calculadora {
                 resultado = multiplicar(a, b);
                 break;
             default:
-                System.out.println("Opção inválida.");
+                System.out.println("Operação inválida.");
                 System.exit(0);
         }
 
